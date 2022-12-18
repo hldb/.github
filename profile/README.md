@@ -3,6 +3,8 @@ Opalescent , or `opalsnt`, is a database protocol which provides peer-to-peer co
 1. [Merkle-CRDTs: Merkle-DAGs meet CRDTs](https://research.protocol.ai/publications/merkle-crdts-merkle-dags-meet-crdts/)
 2. [Byzantine Eventual Consistency and the Fundamental Limits of Peer-to-Peer Databases](https://github.com/ept/byzantine-eventual)
 
+<br/>
+
 Check out the [`opalsnt`](https://github.com/opalsnt/opalsnt) repo for more info.
 <!--
 
