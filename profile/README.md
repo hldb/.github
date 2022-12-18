@@ -5,7 +5,7 @@ Opalescent , or `opalsnt`, is a database protocol which provides peer-to-peer co
 
 <br/>
 
-Check out the [`opalsnt`](https://github.com/opalsnt/opalsnt) repo for more info.
+Check out the [`opalsnt/opalsnt`](https://github.com/opalsnt/opalsnt) repo for more info.
 <!--
 
 **Here are some ideas to get you started:**
