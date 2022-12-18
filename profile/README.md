@@ -1,4 +1,4 @@
-The Opalescent database, or `opalsnt`, is a protocol which provides peer-to-peer collaboration without consensus. The fundamentals coem from these two papers:
+Opalescent , or `opalsnt`, is a database protocol which provides peer-to-peer collaboration without consensus. The fundamentals coem from these two papers:
 
 1. [Merkle-CRDTs: Merkle-DAGs meet CRDTs](https://research.protocol.ai/publications/merkle-crdts-merkle-dags-meet-crdts/)
 2. [Byzantine Eventual Consistency and the Fundamental Limits of Peer-to-Peer Databases](https://github.com/ept/byzantine-eventual)
