@@ -1,11 +1,11 @@
-Opalescent , or `opalsnt`, is a database protocol which provides peer-to-peer collaboration without consensus. The fundamentals come from these two papers:
+HLDB (**h**yper**l**ocal **d**ata**b**ase) is a database protocol which provides peer-to-peer collaboration without consensus. The fundamentals come from these two papers:
 
 1. [Merkle-CRDTs: Merkle-DAGs meet CRDTs](https://research.protocol.ai/publications/merkle-crdts-merkle-dags-meet-crdts/)
 2. [Byzantine Eventual Consistency and the Fundamental Limits of Peer-to-Peer Databases](https://github.com/ept/byzantine-eventual)
 
 <br/>
 
-Check out the [`opalsnt/opalsnt`](https://github.com/opalsnt/opalsnt) repo for more info.
+Check out the [`hldb/hldb`](https://github.com/hldb/hldb) repo for more info.
 <!--
 
 **Here are some ideas to get you started:**
